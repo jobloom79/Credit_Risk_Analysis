@@ -7,7 +7,8 @@ After using several sampling methods we will determine if any particular method 
 ### Resampling Models
 #### Oversampling
 * Balanced Score: 0.6463970560994359
-![Random_Oversampling](https://github.com/jobloom79/Credit_Risk_Analysis/blob/main/Resource/random_oversample.PNG)
+![Random_Oversampling]
+(https://github.com/jobloom79/Credit_Risk_Analysis/blob/main/Resource/random_oversample.PNG)
 #### SMOTE Oversampling
 * Balanced Score: 0.6586230769943224
 ![SMOTE_Oversampling](https://github.com/jobloom79/Credit_Risk_Analysis/blob/main/Resource/smote_oversample.PNG)
